@@ -1,2 +1,1 @@
-# gossipingadmin
-bot for tg
+
