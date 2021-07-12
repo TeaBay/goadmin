@@ -1,0 +1,2 @@
+# gossipingadmin
+bot for tg
